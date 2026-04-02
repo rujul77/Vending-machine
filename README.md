@@ -1,7 +1,6 @@
 # Vending Machine Program
 
-**Name:** Rujul Tiwari  
-**Login:** rt522  
+project completed January 2025
 
 ## Program Description
 
