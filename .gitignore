@@ -1,0 +1,11 @@
+# Java
+*.class
+
+# IntelliJ
+.idea/
+
+# Build output
+out/
+
+# OS
+.DS_Store
